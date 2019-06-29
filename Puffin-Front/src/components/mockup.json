@@ -1,0 +1,70 @@
+{
+    "items":[
+        {
+            "slug":"Prod1",
+            "id":4352,
+            "qtd":76,
+            "location": "Lab01"
+        },
+        {
+            "slug":"Prod1",
+            "id":4352,
+            "qtd":76,
+            "location": "Lab01"
+        },
+        {
+            "slug":"Prod1",
+            "id":4352,
+            "qtd":76,
+            "location": "Lab01"
+        },
+        {
+            "slug":"Prod1",
+            "id":4352,
+            "qtd":76,
+            "location": "Lab01"
+        },
+        {
+            "slug":"Prod1",
+            "id":4352,
+            "qtd":76,
+            "location": "Lab01"
+        },
+        {
+            "slug":"Prod1",
+            "id":4352,
+            "qtd":76,
+            "location": "Lab01"
+        },
+        {
+            "slug":"Prod2",
+            "id":1232,
+            "qtd":19,
+            "location": "Lab01"
+        },
+        {
+            "slug":"Prod3",
+            "id":1302,
+            "qtd":0,
+            "location": "Lab01"
+        },
+        {
+            "slug":"Prod4",
+            "id":1302,
+            "qtd":10,
+            "location": "Lab01"
+        },
+        {
+            "slug":"Prod5",
+            "id":1302,
+            "qtd":5,
+            "location": "Lab01"
+        },
+        {
+            "slug":"Prod6",
+            "id":1302,
+            "qtd":2,
+            "location": "Lab01"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+.container {
+    padding: 1rem;
+    color: whitesmoke;
+    box-sizing: border-box;
+    display: flex;
+    vertical-align: start;
+    float: left;
+}
+
+.absolute-center{
+    height: inherit;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /*centers items on the line (the x-axis by default)*/
+    align-items: center;
+    position: relative;
+}
+
+.col{
+    flex-direction: column;
+}
+
+.block:hover{
+    box-shadow: 0 0 10px rgba(33,33,33,.3);
+    text-shadow: 0 0 10px rgba(33,33,33,.3);
+}
+
+.block{
+    width: 10rem;
+    height: 2rem;
+    display: inline-block;
+    float: left;
+    margin: 1rem;
+    color: white;
+    font-size: 0.85rem;
+    cursor: pointer;
+    border: 1px solid #333333;
+    color: #333333
+}
+
+.small {
+    width: 3rem;
+    height: 1rem;
+    margin: 0.5rem;
+}
+
+.vertical {
+    flex-direction: column;
+    vertical-align: middle;
+}
+
+.border-lg{
+    border: 1px solid dimgray;
+    margin: 1rem;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.large{
+    min-width: 90%;
+}
+
+.full-wid  {
+    width: 100%;
+}
+
+.full {
+    min-height: 100%;
+}
+
+.big {
+    min-height: 40rem;
+}
+
+.mid-lg {
+    width: 70%;
+}
+
+.light{
+    background-color: dimgrey;
+    color: whitesmoke;
+}
+
+.narrow {
+    width: 4%;
+    min-width: 4rem;
+}
+
+.mid {
+    height: 9rem;
+}
+
+.space-up{
+    margin-top: 3rem;
+}
+
+.max-hi-mid {
+    height: 27.5rem;
+    overflow: auto;
+}

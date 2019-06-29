@@ -1,0 +1,20 @@
+.item{
+    border-bottom: 1px dashed #a3a3a3;
+    color: black;
+}
+
+.item__opt{
+    float: right;
+    display: inline-block;
+}
+
+.ml {
+    margin-left: 2px;
+}
+
+.item_text{
+    font-size: 0.9rem;
+    margin: 6px;
+    display: inline-block;
+    float: left;
+}

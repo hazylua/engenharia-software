@@ -1,0 +1,20 @@
+.btn{
+    width: 12rem;
+    height: 2.2rem;
+    background-color: grey;
+    color: white;
+    font-size: 0.8rem;
+    border-radius: 4px;
+    margin: 0.1rem;
+    cursor: pointer;
+    &--med{
+        width: 9rem;
+    }
+    &--small{
+        width: 2.4rem;
+    }
+    &--red{
+        color: white;
+        background-color: #ce7f6f;
+    }
+}
